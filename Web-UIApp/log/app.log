@@ -1,0 +1,110 @@
+[2019-05-03 13:27:27.224] [DEBUG] basicRoute - http://10.20.46.23:9999/default/bpm-rest-api/task/50517f49-6d6a-11e9-8b34-0050568c22a6
+[2019-05-03 13:27:27.304] [DEBUG] bpm - http://localhost:843/forms/QCOverGrade/publish.html
+[2019-05-03 13:27:27.304] [DEBUG] bpm - { ISPublish: 'YES',
+  leadercheck_remark: 'Pass!',
+  initiator: 'FEPVNN0081',
+  ISReceive: 'YES',
+  OverID: 'RY190425008',
+  EnginerArray: [ 'FEPVNN0211,FEPVNN0188,FEPV000118' ],
+  leadername: 'Lee Sz Yuan(FEPVNN0186)',
+  QCManagerList: [ 'FEPVNN0186', 'FEPVNN0033', 'FEPVNN0081,FEPVNN0090' ] }
+[2019-05-03 13:29:36.882] [DEBUG] basicRoute - http://10.20.46.23:9999/default/bpm-rest-api/task/89bfba74-6d6c-11e9-8b34-0050568c22a6
+[2019-05-03 13:29:36.957] [DEBUG] bpm - http://localhost:843/forms/QCOverGrade/publish.html
+[2019-05-03 13:29:36.957] [DEBUG] bpm - { ISPublish: 'YES',
+  leadercheck_remark: 'yes it\'s oK',
+  initiator: 'FEPVNN0081',
+  ISReceive: 'YES',
+  OverID: 'RY190425008',
+  EnginerArray: [ 'FEPVNN0211,FEPVNN0188,FEPV000118' ],
+  leadername: 'Lin Hsien Hung(FEPVNN0033)',
+  QCManagerList: [ 'FEPVNN0186', 'FEPVNN0033', 'FEPVNN0081,FEPVNN0090' ] }
+[2019-05-03 13:46:14.775] [INFO] app - -nodejs opening---
+[2019-05-13 09:09:15.844] [INFO] app - -nodejs opening---
+[2019-05-13 09:18:00.274] [DEBUG] basicRoute - http://10.20.46.23:9999/default/bpm-rest-api/task/e2cfd291-7233-11e9-8b34-0050568c22a6
+[2019-05-13 09:18:00.336] [DEBUG] bpm - http://localhost:843/forms/QCOverGrade/publish.html
+[2019-05-13 09:18:00.337] [DEBUG] bpm - { ISPublish: 'YES',
+  leadercheck_remark: 'publish',
+  initiator: 'FEPVNN0081',
+  ISReceive: 'YES',
+  OverID: 'RY190425001',
+  EnginerArray: [ 'FEPVNN0211,FEPVNN0188,FEPV000118' ],
+  leadername: 'Lin Hsien Hung(FEPVNN0033)',
+  QCManagerList: [ 'FEPVNN0186', 'FEPVNN0033', 'FEPVNN0081,FEPVNN0090' ] }
+[2019-05-13 09:18:14.147] [DEBUG] basicRoute - http://10.20.46.23:9999/default/bpm-rest-api/task/f0f6629f-6d79-11e9-8b34-0050568c22a6
+[2019-05-13 09:18:14.207] [DEBUG] bpm - http://localhost:843/forms/QCOverGrade/publish.html
+[2019-05-13 09:18:14.207] [DEBUG] bpm - { ISPublish: 'YES',
+  leadercheck_remark: 'Yyaya',
+  ISReceive: 'YES',
+  initiator: 'FEPVNN0081',
+  OverID: 'RY190425005',
+  EnginerArray: [ 'FEPVNN0185,FEPV000092' ],
+  leadername: 'Chao Ming Hua(FEPVNN0082)',
+  QCManagerList: [ 'FEPVNN0184', 'FEPVNN0082', 'FEPVNN0081,FEPVNN0090' ] }
+[2019-05-13 09:18:44.764] [DEBUG] basicRoute - http://10.20.46.23:9999/default/bpm-rest-api/task/f0f6629f-6d79-11e9-8b34-0050568c22a6
+[2019-05-13 09:18:44.822] [DEBUG] bpm - http://localhost:843/forms/QCOverGrade/publish.html
+[2019-05-13 09:18:44.822] [DEBUG] bpm - { ISPublish: 'YES',
+  leadercheck_remark: 'Yyaya',
+  ISReceive: 'YES',
+  initiator: 'FEPVNN0081',
+  OverID: 'RY190425005',
+  EnginerArray: [ 'FEPVNN0185,FEPV000092' ],
+  leadername: 'Chao Ming Hua(FEPVNN0082)',
+  QCManagerList: [ 'FEPVNN0184', 'FEPVNN0082', 'FEPVNN0081,FEPVNN0090' ] }
+[2019-05-13 09:18:56.148] [DEBUG] basicRoute - http://10.20.46.23:9999/default/bpm-rest-api/task/f0f6629f-6d79-11e9-8b34-0050568c22a6
+[2019-05-13 09:18:56.210] [DEBUG] bpm - http://localhost:843/forms/QCOverGrade/publish.html
+[2019-05-13 09:18:56.210] [DEBUG] bpm - { ISPublish: 'YES',
+  leadercheck_remark: 'Yyaya',
+  ISReceive: 'YES',
+  initiator: 'FEPVNN0081',
+  OverID: 'RY190425005',
+  EnginerArray: [ 'FEPVNN0185,FEPV000092' ],
+  leadername: 'Chao Ming Hua(FEPVNN0082)',
+  QCManagerList: [ 'FEPVNN0184', 'FEPVNN0082', 'FEPVNN0081,FEPVNN0090' ] }
+[2019-05-13 09:19:31.374] [DEBUG] basicRoute - http://10.20.46.23:9999/default/bpm-rest-api/process-definition/QCOverGrade:1:3f2a464d-22b9-11e9-8461-0050568c22a6
+[2019-05-13 09:19:37.458] [DEBUG] basicRoute - http://10.20.46.23:9999/default/bpm-rest-api/task/8903ad46-7525-11e9-8b34-0050568c22a6
+[2019-05-13 09:19:37.512] [DEBUG] bpm - http://localhost:843/forms/QCOverGrade/leadercheck.html
+[2019-05-13 09:19:37.513] [DEBUG] bpm - { initiator: 'FEPVNN0081',
+  OverID: 'RY190425010',
+  EnginerArray: [ 'FEPVNN0211,FEPVNN0188,FEPV000118' ] }
+[2019-05-13 09:34:44.808] [DEBUG] basicRoute - http://10.20.46.23:9999/default/bpm-rest-api/task/a57d7e62-7527-11e9-8b34-0050568c22a6
+[2019-05-13 09:34:44.853] [DEBUG] bpm - http://localhost:843/forms/QCOverGrade/publish.html
+[2019-05-13 09:34:44.853] [DEBUG] bpm - { ISReceive: 'YES',
+  initiator: 'FEPVNN0081',
+  OverID: 'RY190425010',
+  EnginerArray: [ 'FEPVNN0211,FEPVNN0188,FEPV000118' ],
+  QCManagerList: [ 'FEPVNN0186', 'FEPVNN0033', 'FEPVNN0081,FEPVNN0090' ] }
+[2019-05-13 09:35:04.905] [DEBUG] basicRoute - http://10.20.46.23:9999/default/bpm-rest-api/task/b1fd1c00-7527-11e9-8b34-0050568c22a6
+[2019-05-13 09:35:04.960] [DEBUG] bpm - http://localhost:843/forms/QCOverGrade/publish.html
+[2019-05-13 09:35:04.960] [DEBUG] bpm - { ISPublish: 'YES',
+  leadercheck_remark: 'Wayen',
+  ISReceive: 'YES',
+  initiator: 'FEPVNN0081',
+  OverID: 'RY190425010',
+  EnginerArray: [ 'FEPVNN0211,FEPVNN0188,FEPV000118' ],
+  leadername: 'Lee Sz Yuan(FEPVNN0186)',
+  QCManagerList: [ 'FEPVNN0186', 'FEPVNN0033', 'FEPVNN0081,FEPVNN0090' ] }
+[2019-05-13 09:35:19.396] [DEBUG] basicRoute - http://10.20.46.23:9999/default/bpm-rest-api/task/bbdeb62b-7527-11e9-8b34-0050568c22a6
+[2019-05-13 09:35:19.452] [DEBUG] bpm - http://localhost:843/forms/QCOverGrade/publish.html
+[2019-05-13 09:35:19.452] [DEBUG] bpm - { ISPublish: 'YES',
+  leadercheck_remark: 'Tes',
+  ISReceive: 'YES',
+  initiator: 'FEPVNN0081',
+  OverID: 'RY190425010',
+  EnginerArray: [ 'FEPVNN0211,FEPVNN0188,FEPV000118' ],
+  leadername: 'Lin Hsien Hung(FEPVNN0033)',
+  QCManagerList: [ 'FEPVNN0186', 'FEPVNN0033', 'FEPVNN0081,FEPVNN0090' ] }
+[2019-05-14 12:01:46.922] [INFO] app - -nodejs opening---
+[2019-05-14 12:13:18.815] [INFO] app - -nodejs opening---
+[2019-05-16 15:51:33.918] [INFO] app - -nodejs opening---
+[2019-05-18 08:23:20.215] [INFO] app - -nodejs opening---
+[2019-05-20 08:42:09.129] [INFO] app - -nodejs opening---
+[2019-05-23 12:58:00.404] [INFO] app - -nodejs opening---
+[2019-05-23 13:02:32.026] [INFO] app - -nodejs opening---
+[2019-05-23 13:06:35.484] [INFO] app - -nodejs opening---
+[2019-05-29 16:49:55.453] [INFO] app - -nodejs opening---
+[2019-05-29 16:51:36.619] [INFO] app - -nodejs opening---
+[2019-05-29 16:52:58.833] [INFO] app - -nodejs opening---
+[2019-05-31 08:11:55.758] [INFO] app - -nodejs opening---
+[2019-06-05 07:57:43.485] [INFO] app - -nodejs opening---
+[2019-06-05 09:35:28.891] [INFO] app - -nodejs opening---
+[2019-06-05 12:42:58.216] [INFO] app - -nodejs opening---

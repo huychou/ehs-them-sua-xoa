@@ -1,0 +1,9 @@
+D:\EHS_Test\Web-API\EHS.Models\bin\Debug\EHS.Models.dll
+D:\EHS_Test\Web-API\EHS.Models\bin\Debug\EHS.Models.pdb
+D:\EHS_Test\Web-API\EHS.Models\bin\Debug\EntityFramework.dll
+D:\EHS_Test\Web-API\EHS.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\EHS_Test\Web-API\EHS.Models\obj\Debug\EHS.Models.csprojAssemblyReference.cache
+D:\EHS_Test\Web-API\EHS.Models\obj\Debug\EHS.Models.csproj.CoreCompileInputs.cache
+D:\EHS_Test\Web-API\EHS.Models\obj\Debug\EHS.Models.csproj.CopyComplete
+D:\EHS_Test\Web-API\EHS.Models\obj\Debug\EHS.Models.dll
+D:\EHS_Test\Web-API\EHS.Models\obj\Debug\EHS.Models.pdb

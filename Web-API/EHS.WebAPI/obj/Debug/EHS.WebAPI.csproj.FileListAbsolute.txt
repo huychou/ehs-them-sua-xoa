@@ -1,0 +1,124 @@
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\WebAPI.exe.config
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\WebAPI.exe
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\WebAPI.pdb
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\EHS.DAL.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\EHS.Models.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\EntityFramework.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\EntityFramework.SqlServer.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\log4net.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\Microsoft.Owin.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\NBear.Common.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\NBear.Data.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\Newtonsoft.Json.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\Owin.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\System.Web.Http.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\System.Web.Http.Owin.dll
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\EHS.DAL.pdb
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\bin\Debug\EHS.Models.pdb
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\obj\Debug\EHS.WebAPI.csprojResolveAssemblyReference.cache
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\obj\Debug\WebAPI.exe
+D:\nhgiang\p\EHSWebAPI\EHS.WebAPI\obj\Debug\WebAPI.pdb
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\WebAPI.exe.config
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\obj\Debug\WebAPI.exe
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\obj\Debug\WebAPI.pdb
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\WebAPI.exe
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\WebAPI.pdb
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\EHS.DAL.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\EHS.Models.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\EntityFramework.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\EntityFramework.SqlServer.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\log4net.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\Microsoft.Owin.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\NBear.Common.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\NBear.Data.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\Newtonsoft.Json.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\Owin.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\System.Web.Http.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\System.Web.Http.Owin.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\EHS.DAL.pdb
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\EHS.Models.pdb
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.WebAPI\obj\Debug\EHS.WebAPI.csprojResolveAssemblyReference.cache
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\WebAPI.exe.config
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\obj\Debug\WebAPI.exe
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\obj\Debug\WebAPI.pdb
+D:\nhgiang\p\EHS httpsfepvbbde0059\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\WebAPI.exe.config
+D:\nhgiang\p\EHS httpsfepvbbde0059\EHSWebAPI (API EHS)\EHS.WebAPI\obj\Debug\WebAPI.exe
+D:\nhgiang\p\EHS httpsfepvbbde0059\EHSWebAPI (API EHS)\EHS.WebAPI\obj\Debug\WebAPI.pdb
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\WebAPI.exe
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\WebAPI.pdb
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\EHS.DAL.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\EHS.Models.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\EntityFramework.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\EntityFramework.SqlServer.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\log4net.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\Microsoft.Owin.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\NBear.Common.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\NBear.Data.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\Newtonsoft.Json.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\Owin.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\System.Web.Http.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\System.Web.Http.Owin.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\EHS.DAL.pdb
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\bin\Debug\EHS.Models.pdb
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\obj\Debug\EHS.WebAPI.csprojAssemblyReference.cache
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\obj\Debug\EHS.WebAPI.csproj.CoreCompileInputs.cache
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.WebAPI\obj\Debug\EHS.WebAPI.csproj.CopyComplete
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\WebAPI.exe.config
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\WebAPI.exe
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\WebAPI.pdb
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\EHS.DAL.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\EHS.Models.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\EntityFramework.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\EntityFramework.SqlServer.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\log4net.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\Microsoft.Owin.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\NBear.Common.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\NBear.Data.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\Newtonsoft.Json.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\Owin.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\System.Web.Http.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\System.Web.Http.Owin.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\EHS.DAL.pdb
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\bin\Debug\EHS.Models.pdb
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\obj\Debug\EHS.WebAPI.csprojAssemblyReference.cache
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\obj\Debug\EHS.WebAPI.csproj.CoreCompileInputs.cache
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\obj\Debug\EHS.WebAPI.csproj.CopyComplete
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\obj\Debug\WebAPI.exe
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.WebAPI\obj\Debug\WebAPI.pdb
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\WebAPI.exe.config
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\WebAPI.exe
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\WebAPI.pdb
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\EHS.DAL.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\EHS.Models.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\EntityFramework.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\EntityFramework.SqlServer.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\log4net.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\Microsoft.Owin.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\NBear.Common.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\NBear.Data.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\Newtonsoft.Json.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\Owin.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\System.Web.Http.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\System.Web.Http.Owin.dll
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\EHS.DAL.pdb
+D:\EHS_Test\Web-API\EHS.WebAPI\bin\Debug\EHS.Models.pdb
+D:\EHS_Test\Web-API\EHS.WebAPI\obj\Debug\EHS.WebAPI.csprojAssemblyReference.cache
+D:\EHS_Test\Web-API\EHS.WebAPI\obj\Debug\EHS.WebAPI.csproj.CoreCompileInputs.cache
+D:\EHS_Test\Web-API\EHS.WebAPI\obj\Debug\EHS.WebAPI.csproj.CopyComplete
+D:\EHS_Test\Web-API\EHS.WebAPI\obj\Debug\WebAPI.exe
+D:\EHS_Test\Web-API\EHS.WebAPI\obj\Debug\WebAPI.pdb

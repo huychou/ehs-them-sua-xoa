@@ -1,0 +1,321 @@
+[2019-02-12 08:51:04.250] [ERROR] db - Error: failed to connect to [10.20.46.23:27017]
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\server.js:553:25)
+    at emitThree (events.js:116:13)
+    at emit (events.js:194:7)
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection_pool.js:140:15)
+    at emitTwo (events.js:106:13)
+    at emit (events.js:191:7)
+    at Socket.<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection.js:512:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1278:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+[2019-02-12 08:52:20.025] [ERROR] app - { title: 'bpm pipehttp://10.20.46.23:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: connect ECONNREFUSED 10.20.46.23:9999
+       at Object.exports._errnoException (util.js:1022:11)
+       at exports._exceptionWithHostPort (util.js:1045:20)
+       at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+     code: 'ECONNREFUSED',
+     errno: 'ECONNREFUSED',
+     syscall: 'connect',
+     address: '10.20.46.23',
+     port: 9999 } }
+[2019-02-12 08:52:28.760] [ERROR] app - { title: 'bpm pipehttp://10.20.46.23:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: connect ECONNREFUSED 10.20.46.23:9999
+       at Object.exports._errnoException (util.js:1022:11)
+       at exports._exceptionWithHostPort (util.js:1045:20)
+       at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+     code: 'ECONNREFUSED',
+     errno: 'ECONNREFUSED',
+     syscall: 'connect',
+     address: '10.20.46.23',
+     port: 9999 } }
+[2019-02-12 08:56:38.545] [ERROR] app - { title: 'bpm pipehttp://10.20.46.23:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: connect ECONNREFUSED 10.20.46.23:9999
+       at Object.exports._errnoException (util.js:1022:11)
+       at exports._exceptionWithHostPort (util.js:1045:20)
+       at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+     code: 'ECONNREFUSED',
+     errno: 'ECONNREFUSED',
+     syscall: 'connect',
+     address: '10.20.46.23',
+     port: 9999 } }
+[2019-02-12 08:56:52.063] [ERROR] app - { title: 'bpm pipehttp://10.20.46.23:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: connect ECONNREFUSED 10.20.46.23:9999
+       at Object.exports._errnoException (util.js:1022:11)
+       at exports._exceptionWithHostPort (util.js:1045:20)
+       at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+     code: 'ECONNREFUSED',
+     errno: 'ECONNREFUSED',
+     syscall: 'connect',
+     address: '10.20.46.23',
+     port: 9999 } }
+[2019-02-12 08:58:57.158] [ERROR] app - { title: 'bpm pipehttp://10.20.46.23:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: connect ECONNREFUSED 10.20.46.23:9999
+       at Object.exports._errnoException (util.js:1022:11)
+       at exports._exceptionWithHostPort (util.js:1045:20)
+       at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+     code: 'ECONNREFUSED',
+     errno: 'ECONNREFUSED',
+     syscall: 'connect',
+     address: '10.20.46.23',
+     port: 9999 } }
+[2019-02-12 09:02:54.205] [ERROR] app - { title: 'bpm pipehttp://10.20.46.23:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: connect ECONNREFUSED 10.20.46.23:9999
+       at Object.exports._errnoException (util.js:1022:11)
+       at exports._exceptionWithHostPort (util.js:1045:20)
+       at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+     code: 'ECONNREFUSED',
+     errno: 'ECONNREFUSED',
+     syscall: 'connect',
+     address: '10.20.46.23',
+     port: 9999 } }
+[2019-02-12 09:09:44.353] [ERROR] app - { title: 'bpm pipehttp://10.20.46.23:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: connect ECONNREFUSED 10.20.46.23:9999
+       at Object.exports._errnoException (util.js:1022:11)
+       at exports._exceptionWithHostPort (util.js:1045:20)
+       at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+     code: 'ECONNREFUSED',
+     errno: 'ECONNREFUSED',
+     syscall: 'connect',
+     address: '10.20.46.23',
+     port: 9999 } }
+[2019-02-12 09:18:55.546] [ERROR] app - { title: 'bpm pipehttp://10.20.46.23:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: connect ECONNREFUSED 10.20.46.23:9999
+       at Object.exports._errnoException (util.js:1022:11)
+       at exports._exceptionWithHostPort (util.js:1045:20)
+       at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+     code: 'ECONNREFUSED',
+     errno: 'ECONNREFUSED',
+     syscall: 'connect',
+     address: '10.20.46.23',
+     port: 9999 } }
+[2019-02-12 09:30:57.680] [ERROR] db - Error: failed to connect to [10.20.46.23:27017]
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\server.js:553:25)
+    at emitThree (events.js:116:13)
+    at emit (events.js:194:7)
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection_pool.js:140:15)
+    at emitTwo (events.js:106:13)
+    at emit (events.js:191:7)
+    at Socket.<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection.js:512:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1278:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+[2019-02-12 09:31:10.718] [ERROR] app - { title: 'bpm pipehttp://10.20.46.23:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: connect ECONNREFUSED 10.20.46.23:9999
+       at Object.exports._errnoException (util.js:1022:11)
+       at exports._exceptionWithHostPort (util.js:1045:20)
+       at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+     code: 'ECONNREFUSED',
+     errno: 'ECONNREFUSED',
+     syscall: 'connect',
+     address: '10.20.46.23',
+     port: 9999 } }
+[2019-02-12 09:31:14.146] [ERROR] db - Error: failed to connect to [10.20.46.23:27017]
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\server.js:553:25)
+    at emitThree (events.js:116:13)
+    at emit (events.js:194:7)
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection_pool.js:140:15)
+    at emitTwo (events.js:106:13)
+    at emit (events.js:191:7)
+    at Socket.<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection.js:512:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1278:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+[2019-02-12 09:38:54.247] [ERROR] db - Error: failed to connect to [10.20.46.23:27017]
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\server.js:553:25)
+    at emitThree (events.js:116:13)
+    at emit (events.js:194:7)
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection_pool.js:140:15)
+    at emitTwo (events.js:106:13)
+    at emit (events.js:191:7)
+    at Socket.<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection.js:512:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1278:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+[2019-02-12 09:39:00.364] [ERROR] app - { title: 'bpm pipehttp://10.20.46.23:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: connect ECONNREFUSED 10.20.46.23:9999
+       at Object.exports._errnoException (util.js:1022:11)
+       at exports._exceptionWithHostPort (util.js:1045:20)
+       at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+     code: 'ECONNREFUSED',
+     errno: 'ECONNREFUSED',
+     syscall: 'connect',
+     address: '10.20.46.23',
+     port: 9999 } }
+[2019-02-12 09:43:09.012] [ERROR] app - { title: 'bpm pipehttp://10.20.46.23:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: connect ECONNREFUSED 10.20.46.23:9999
+       at Object.exports._errnoException (util.js:1022:11)
+       at exports._exceptionWithHostPort (util.js:1045:20)
+       at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+     code: 'ECONNREFUSED',
+     errno: 'ECONNREFUSED',
+     syscall: 'connect',
+     address: '10.20.46.23',
+     port: 9999 } }
+[2019-02-18 14:19:41.970] [ERROR] db - Error: failed to connect to [10.20.46.23:27017]
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\server.js:553:25)
+    at emitThree (events.js:116:13)
+    at emit (events.js:194:7)
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection_pool.js:140:15)
+    at emitTwo (events.js:106:13)
+    at emit (events.js:191:7)
+    at Socket.<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection.js:512:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1278:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+[2019-02-19 16:04:29.660] [ERROR] db - Error: failed to connect to [10.20.46.23:27017]
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\server.js:553:25)
+    at emitThree (events.js:116:13)
+    at emit (events.js:194:7)
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection_pool.js:140:15)
+    at emitTwo (events.js:106:13)
+    at emit (events.js:191:7)
+    at Socket.<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection.js:512:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1278:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+[2019-02-19 16:05:10.765] [ERROR] db - Error: failed to connect to [10.20.46.23:27017]
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\server.js:553:25)
+    at emitThree (events.js:116:13)
+    at emit (events.js:194:7)
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection_pool.js:140:15)
+    at emitTwo (events.js:106:13)
+    at emit (events.js:191:7)
+    at Socket.<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection.js:512:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1278:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+[2019-02-19 16:30:42.018] [ERROR] db - Error: failed to connect to [10.20.46.23:27017]
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\server.js:553:25)
+    at emitThree (events.js:116:13)
+    at emit (events.js:194:7)
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection_pool.js:140:15)
+    at emitTwo (events.js:106:13)
+    at emit (events.js:191:7)
+    at Socket.<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection.js:512:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1278:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+[2019-02-21 13:33:59.881] [ERROR] bpm - submit taskid: 500{"type":"RestException","message":"Cannot complete task a33feb0b-35a2-11e9-a5ba-0050568c22a6: No outgoing sequence flow of the exclusive gateway 'ExclusiveGateway_1' could be selected for continuing the process"}
+[2019-02-21 13:34:07.511] [ERROR] bpm - submit taskid: 500{"type":"RestException","message":"Cannot complete task a33feb0b-35a2-11e9-a5ba-0050568c22a6: No outgoing sequence flow of the exclusive gateway 'ExclusiveGateway_1' could be selected for continuing the process"}
+[2019-02-21 13:34:12.695] [ERROR] bpm - submit taskid: 500{"type":"RestException","message":"Cannot complete task a33feb0b-35a2-11e9-a5ba-0050568c22a6: No outgoing sequence flow of the exclusive gateway 'ExclusiveGateway_1' could be selected for continuing the process"}
+[2019-02-21 13:34:19.398] [ERROR] bpm - submit taskid: 500{"type":"RestException","message":"Cannot complete task a33feb0b-35a2-11e9-a5ba-0050568c22a6: No outgoing sequence flow of the exclusive gateway 'ExclusiveGateway_1' could be selected for continuing the process"}
+[2019-02-21 13:34:41.595] [ERROR] bpm - submit taskid: 500{"type":"RestException","message":"Cannot complete task a33feb0b-35a2-11e9-a5ba-0050568c22a6: No outgoing sequence flow of the exclusive gateway 'ExclusiveGateway_1' could be selected for continuing the process"}
+[2019-02-21 13:34:51.180] [ERROR] bpm - submit taskid: 500{"type":"RestException","message":"Cannot complete task a33feb0b-35a2-11e9-a5ba-0050568c22a6: No outgoing sequence flow of the exclusive gateway 'ExclusiveGateway_1' could be selected for continuing the process"}
+[2019-04-04 15:24:33.485] [ERROR] db - Error: failed to connect to [10.20.46.23:27017]
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\server.js:553:25)
+    at emitThree (events.js:116:13)
+    at emit (events.js:194:7)
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection_pool.js:140:15)
+    at emitTwo (events.js:106:13)
+    at emit (events.js:191:7)
+    at Socket.<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection.js:512:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1278:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+[2019-04-05 09:01:05.430] [ERROR] app - { title: 'bpm pipehttp://10.20.46.23:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: connect ECONNREFUSED 10.20.46.23:9999
+       at Object.exports._errnoException (util.js:1022:11)
+       at exports._exceptionWithHostPort (util.js:1045:20)
+       at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+     code: 'ECONNREFUSED',
+     errno: 'ECONNREFUSED',
+     syscall: 'connect',
+     address: '10.20.46.23',
+     port: 9999 } }
+[2019-04-16 15:18:39.298] [ERROR] bpm - save from failed"
+[2019-04-16 15:18:59.640] [ERROR] bpm - save from failed"
+[2019-04-16 15:20:35.537] [ERROR] bpm - save from failed"
+[2019-04-16 15:22:46.856] [ERROR] bpm - save from failed"
+[2019-04-16 15:23:48.808] [ERROR] bpm - save from failed"
+[2019-04-16 15:24:20.511] [ERROR] bpm - save from failed"
+[2019-04-16 15:28:06.846] [ERROR] bpm - save from failed"
+[2019-04-16 15:28:45.368] [ERROR] bpm - save from failed"
+[2019-04-16 15:48:16.480] [ERROR] bpm - save from failed"
+[2019-04-18 10:08:21.903] [ERROR] bpm - save from failed"
+[2019-04-18 10:19:40.192] [ERROR] bpm - save from failed"
+[2019-04-18 14:01:07.635] [ERROR] bpm - save from failed"
+[2019-04-18 14:02:30.533] [ERROR] bpm - save from failed"
+[2019-04-18 14:02:48.781] [ERROR] bpm - save from failed"
+[2019-04-18 14:12:23.442] [ERROR] bpm - save from failed"
+[2019-04-18 14:19:04.724] [ERROR] bpm - save from failed"
+[2019-04-25 09:34:01.573] [ERROR] app - { title: 'bpm pipehttp://demo.feg.cn:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: getaddrinfo ENOTFOUND demo.feg.cn demo.feg.cn:9999
+       at errnoException (dns.js:28:10)
+       at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+     code: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     syscall: 'getaddrinfo',
+     hostname: 'demo.feg.cn',
+     host: 'demo.feg.cn',
+     port: '9999' } }
+[2019-04-25 09:35:35.058] [ERROR] app - { title: 'bpm pipehttp://demo.feg.cn:9999/default/bpm-rest-api/task/count?assignee=cassie',
+  message: 
+   { Error: getaddrinfo ENOTFOUND demo.feg.cn demo.feg.cn:9999
+       at errnoException (dns.js:28:10)
+       at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+     code: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     syscall: 'getaddrinfo',
+     hostname: 'demo.feg.cn',
+     host: 'demo.feg.cn',
+     port: '9999' } }
+[2019-05-02 16:20:29.439] [ERROR] bpm - save from failed"
+[2019-05-02 16:29:20.514] [ERROR] bpm - save from failed"
+[2019-05-02 16:29:48.787] [ERROR] bpm - save from failed"
+[2019-05-02 16:33:21.877] [ERROR] bpm - save from failed"
+[2019-05-03 08:26:42.292] [ERROR] bpm - save from failed"
+[2019-05-03 08:28:23.160] [ERROR] bpm - save from failed"
+[2019-05-03 08:28:51.860] [ERROR] bpm - save from failed"
+[2019-05-03 08:29:37.661] [ERROR] bpm - save from failed"
+[2019-05-03 08:29:43.731] [ERROR] bpm - save from failed"
+[2019-05-03 08:31:04.749] [ERROR] bpm - save from failed"
+[2019-05-03 08:40:57.205] [ERROR] bpm - save from failed"
+[2019-05-03 08:43:49.224] [ERROR] bpm - save from failed"
+[2019-05-03 08:44:16.978] [ERROR] bpm - save from failed"
+[2019-05-03 08:50:22.321] [ERROR] bpm - save from failed"
+[2019-05-03 09:10:50.666] [ERROR] bpm - save from failed"
+[2019-05-03 09:21:22.474] [ERROR] bpm - save from failed"
+[2019-05-03 09:25:16.347] [ERROR] bpm - save from failed"
+[2019-05-03 09:50:10.614] [ERROR] db - Error: failed to connect to [10.20.46.23:27017]
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\server.js:553:25)
+    at emitThree (events.js:116:13)
+    at emit (events.js:194:7)
+    at .<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection_pool.js:140:15)
+    at emitTwo (events.js:106:13)
+    at emit (events.js:191:7)
+    at Socket.<anonymous> (D:\nhgiang\p\WEB BELLING (10.17.31.9 81-DOCWEBBeling)\node_modules\mongodb\lib\mongodb\connection\connection.js:512:10)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1278:8)

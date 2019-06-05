@@ -1,0 +1,56 @@
+D:\nhgiang\p\EHSWebAPI\EHS.DAL\bin\Debug\EHS.DAL.dll
+D:\nhgiang\p\EHSWebAPI\EHS.DAL\bin\Debug\EHS.DAL.pdb
+D:\nhgiang\p\EHSWebAPI\EHS.DAL\bin\Debug\EHS.Models.dll
+D:\nhgiang\p\EHSWebAPI\EHS.DAL\bin\Debug\EntityFramework.dll
+D:\nhgiang\p\EHSWebAPI\EHS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\nhgiang\p\EHSWebAPI\EHS.DAL\bin\Debug\log4net.dll
+D:\nhgiang\p\EHSWebAPI\EHS.DAL\bin\Debug\EHS.Models.pdb
+D:\nhgiang\p\EHSWebAPI\EHS.DAL\obj\Debug\EHS.DAL.csprojResolveAssemblyReference.cache
+D:\nhgiang\p\EHSWebAPI\EHS.DAL\obj\Debug\EHS.DAL.dll
+D:\nhgiang\p\EHSWebAPI\EHS.DAL\obj\Debug\EHS.DAL.pdb
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\EHS.DAL.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\EHS.DAL.pdb
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\EHS.Models.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\EntityFramework.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\log4net.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\EHS.Models.pdb
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.DAL\obj\Debug\EHS.DAL.csprojResolveAssemblyReference.cache
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.DAL\obj\Debug\EHS.DAL.dll
+D:\nhgiang\p\EHSWebAPI (API EHS)\EHS.DAL\obj\Debug\EHS.DAL.pdb
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\EHS.DAL.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\EHS.DAL.pdb
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\EHS.Models.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\EntityFramework.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\log4net.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.DAL\bin\Debug\EHS.Models.pdb
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.DAL\obj\Debug\EHS.DAL.dll
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.DAL\obj\Debug\EHS.DAL.pdb
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.DAL\obj\Debug\EHS.DAL.csprojAssemblyReference.cache
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.DAL\obj\Debug\EHS.DAL.csproj.CoreCompileInputs.cache
+D:\nhgiang\p\EHS\EHSWebAPI (API EHS)\EHS.DAL\obj\Debug\EHS.DAL.csproj.CopyComplete
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.DAL\bin\Debug\EHS.DAL.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.DAL\bin\Debug\EHS.DAL.pdb
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.DAL\bin\Debug\EHS.Models.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.DAL\bin\Debug\EntityFramework.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.DAL\bin\Debug\log4net.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.DAL\bin\Debug\EHS.Models.pdb
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.DAL\obj\Debug\EHS.DAL.csprojAssemblyReference.cache
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.DAL\obj\Debug\EHS.DAL.csproj.CoreCompileInputs.cache
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.DAL\obj\Debug\EHS.DAL.csproj.CopyComplete
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.DAL\obj\Debug\EHS.DAL.dll
+D:\nhgiang\p\EHS\HSE-proj\Web-API\EHS.DAL\obj\Debug\EHS.DAL.pdb
+D:\EHS_Test\Web-API\EHS.DAL\bin\Debug\EHS.DAL.dll
+D:\EHS_Test\Web-API\EHS.DAL\bin\Debug\EHS.DAL.pdb
+D:\EHS_Test\Web-API\EHS.DAL\bin\Debug\EHS.Models.dll
+D:\EHS_Test\Web-API\EHS.DAL\bin\Debug\EntityFramework.dll
+D:\EHS_Test\Web-API\EHS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\EHS_Test\Web-API\EHS.DAL\bin\Debug\log4net.dll
+D:\EHS_Test\Web-API\EHS.DAL\bin\Debug\EHS.Models.pdb
+D:\EHS_Test\Web-API\EHS.DAL\obj\Debug\EHS.DAL.csprojAssemblyReference.cache
+D:\EHS_Test\Web-API\EHS.DAL\obj\Debug\EHS.DAL.csproj.CoreCompileInputs.cache
+D:\EHS_Test\Web-API\EHS.DAL\obj\Debug\EHS.DAL.csproj.CopyComplete
+D:\EHS_Test\Web-API\EHS.DAL\obj\Debug\EHS.DAL.dll
+D:\EHS_Test\Web-API\EHS.DAL\obj\Debug\EHS.DAL.pdb
