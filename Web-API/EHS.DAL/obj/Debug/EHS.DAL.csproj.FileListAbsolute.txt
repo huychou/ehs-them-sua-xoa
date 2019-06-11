@@ -54,3 +54,15 @@ D:\EHS_Test\Web-API\EHS.DAL\obj\Debug\EHS.DAL.csproj.CoreCompileInputs.cache
 D:\EHS_Test\Web-API\EHS.DAL\obj\Debug\EHS.DAL.csproj.CopyComplete
 D:\EHS_Test\Web-API\EHS.DAL\obj\Debug\EHS.DAL.dll
 D:\EHS_Test\Web-API\EHS.DAL\obj\Debug\EHS.DAL.pdb
+D:\ehs\Web-API\EHS.DAL\bin\Debug\EHS.DAL.dll
+D:\ehs\Web-API\EHS.DAL\bin\Debug\EHS.DAL.pdb
+D:\ehs\Web-API\EHS.DAL\bin\Debug\EHS.Models.dll
+D:\ehs\Web-API\EHS.DAL\bin\Debug\EntityFramework.dll
+D:\ehs\Web-API\EHS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ehs\Web-API\EHS.DAL\bin\Debug\log4net.dll
+D:\ehs\Web-API\EHS.DAL\bin\Debug\EHS.Models.pdb
+D:\ehs\Web-API\EHS.DAL\obj\Debug\EHS.DAL.csprojAssemblyReference.cache
+D:\ehs\Web-API\EHS.DAL\obj\Debug\EHS.DAL.csproj.CoreCompileInputs.cache
+D:\ehs\Web-API\EHS.DAL\obj\Debug\EHS.DAL.csproj.CopyComplete
+D:\ehs\Web-API\EHS.DAL\obj\Debug\EHS.DAL.dll
+D:\ehs\Web-API\EHS.DAL\obj\Debug\EHS.DAL.pdb
